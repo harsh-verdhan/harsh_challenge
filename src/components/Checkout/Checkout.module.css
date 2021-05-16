@@ -1,0 +1,13 @@
+.container {
+  margin: 250px 0;
+}
+
+.card {
+  width: 200% !important;
+  margin: 0 2% !important;
+}
+
+.checkout {
+  color: black;
+  text-align: center;
+}
